@@ -4,7 +4,7 @@
 
 The Guru99 Bank project aims to provide net banking facility to its customers.
 
-I did this project to get hands on experience in Banking application.It was like a virtual learning experience where everyday tasks are assigned.
+I did this project to get hands on experience in Banking application.It was like a virtual learning experience where everyday tasks are assigned to your email.
 It was a great learning experience
 
 Scope-Functional testing & external interfaces are in scope and needs to be tested.
