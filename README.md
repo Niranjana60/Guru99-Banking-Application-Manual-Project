@@ -13,6 +13,8 @@ Automation testing and Performance testing is beyond scope of the project.
 
 In this repository, you can see the SRS, Test cases, Screenshots and Bug reports used for testing this project. Bugs are reported in Excel.
 
+User name and passwords for each version are not provided as it expire in 13 days. The UI can be understood by viewing the screenshots.
+
 **Specific Requirements**
 
 Guru99 Bank will have 2 roles
